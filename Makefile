@@ -1,4 +1,4 @@
-DOCKER_USER = 41772ki
+DOCKER_USER = sxua
 IMAGE_NAME = danger-swiftlint
 LATEST_SWIFT_VERSION = 5.7
 
